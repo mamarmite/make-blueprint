@@ -1,5 +1,5 @@
 {
-    "name": "Integration HTTP, Text parser",
+    "name": "JSON+LD scraping",
     "flow": [
         {
             "id": 2,
